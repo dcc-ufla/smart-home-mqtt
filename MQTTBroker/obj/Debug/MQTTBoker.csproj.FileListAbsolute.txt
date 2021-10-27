@@ -1,0 +1,60 @@
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Properties.Resources.resources
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTBoker.csproj.GenerateResource.cache
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTBoker.csproj.CoreCompileInputs.cache
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\bin\Debug\MQTTnet.dll
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTBoker.csproj.CopyComplete
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTBoker.csprojAssemblyReference.cache
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTClient\MQTTClient\obj\Debug\MQTTBroker.BrokerForm.resources
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTClient.exe.config
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTClient.exe
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTClient.pdb
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTnet.dll
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csprojAssemblyReference.cache
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBroker.BrokerForm.resources
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTClient.Properties.Resources.resources
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csproj.GenerateResource.cache
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csproj.CoreCompileInputs.cache
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csproj.CopyComplete
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTClient.exe
+C:\Users\silvi\OneDrive\Área de Trabalho\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTClient.pdb
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTClient.exe.config
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTClient.exe
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTClient.pdb
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTnet.dll
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBroker.BrokerForm.resources
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTClient.Properties.Resources.resources
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csproj.GenerateResource.cache
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csproj.CoreCompileInputs.cache
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csproj.CopyComplete
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTClient.exe
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTClient.pdb
+C:\Share\UFLA EAD\TCC\MQTTBroker\MQTTClient\obj\Debug\MQTTBoker.csproj.AssemblyReference.cache
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\bin\Debug\MQTTClient.exe.config
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\bin\Debug\MQTTClient.exe
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\bin\Debug\MQTTClient.pdb
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\bin\Debug\MQTTnet.dll
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTBoker.csproj.AssemblyReference.cache
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTBroker.BrokerForm.resources
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTClient.Properties.Resources.resources
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTBoker.csproj.GenerateResource.cache
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTBoker.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTBoker.csproj.CopyComplete
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTClient.exe
+C:\Users\Silvio\Desktop\MQTTBroker\MQTTBroker\obj\Debug\MQTTClient.pdb
